@@ -10,6 +10,8 @@ namespace CareerCloud.BusinessLogicLayer
     {
         public ApplicantEducationLogic(IDataRepository<ApplicantEducationPoco> repository) : base(repository)
         {
+
+
         }
 
         protected override void Verify(ApplicantEducationPoco[] pocos)

@@ -5,3 +5,4 @@ C:\Users\sonym\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\ne
 C:\Users\sonym\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
 C:\Users\sonym\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.dll
 C:\Users\sonym\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\sonym\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.csprojAssemblyReference.cache
